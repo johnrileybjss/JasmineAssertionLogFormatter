@@ -9,11 +9,11 @@ Note: On first time use, make sure to run `npm install` from the main directory 
 required node modules.
 
 ## Basic Usage
-`node src/js/convert.js -i /relative/path/to/input-file.csv`
+`node src/js/convert.js -i /relative/path/to/input-file.txt`
 ## Specify Output File
-`node src/js/convert.js -i /relative/path/to/input-file.csv -o /relative/path/to/output-file.txt`
+`node src/js/convert.js -i /relative/path/to/input-file.txt -o /relative/path/to/output-file.txt`
 ## Specify Verbose mode
-`node src/js/convert.js -i /relative/path/to/input-file.csv -v`
+`node src/js/convert.js -i /relative/path/to/input-file.txt -v`
 
 # Arguments
 
